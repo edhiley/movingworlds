@@ -57,46 +57,45 @@ tags:
 
 ## ARTICLES
 
--  **Mireille Rosello**,  Refugee Aesthetics: Agency and Storytelling in 
+-  **Mireille Rosello**,  Refugee Aesthetics: Agency and Storytelling in
 
 	Chris Cleave’s The Other Hand and Fremde Haut
 
--  **Emma Cox**,  Territories of Contact: Two Australian Asylum Seeker 
-	
+-  **Emma Cox**,  Territories of Contact: Two Australian Asylum Seeker
+
 	Documentaries
 
--  **Agnes Woolley**,  Questioning Narrative Authenticity in 
+-  **Agnes Woolley**,  Questioning Narrative Authenticity in
 
 	Kay Adshead’s The Bogus Woman
 
--  **Sam Durrant**,  Reading Asylum: Tweyambe! 
+-  **Sam Durrant**,  Reading Asylum: Tweyambe!
 
--  **David Farrier**,  Reading Without Guarantees? 
- 
+-  **David Farrier**,  Reading Without Guarantees?
+
     Affect in Asylum Seeker Narratives
 
 -  **Parvati Nair**,  The Refuge of Photography:  
 
 	Perspectives on Asylum, Citizenship, and Belonging
 
--  **Maggie O’Neill** and **Phil Hubbard**,  Asylum, Exclusion, and 
+-  **Maggie O’Neill** and **Phil Hubbard**,  Asylum, Exclusion, and
 
 	the Social Role of Arts and Culture
 
--  **Roger Bromley**,  Policing Displacement: Narratives of Asylum in 
+-  **Roger Bromley**,  Policing Displacement: Narratives of Asylum in
 
 	Escape to Paradise and La Forteresse
 
 -  **Sophie Nield**,  Space without Movement: Lefebvre and the Refugee
 
--  **Claire Chambers**,  ‘The Reality and the Record’: 
-	
+-  **Claire Chambers**,  ‘The Reality and the Record’:
+
     Muslim Asylum Accounts
 
 
-## REVIEWS 
+## REVIEWS
 
 - by Ian A. Dudley
 
 ## NOTES ON CONTRIBUTORS
-
