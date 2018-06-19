@@ -11,9 +11,30 @@ To start the update process, you will need the following:
 - The issue, e.g. `2`
 - A plain text editor, e.g. [Atom editor](https://atom.io/).
 
+
+## Editing files
+
+Log in to the fork of Github (https://github.com/mworlds/movingworlds/).
+
+Create a new branch (name according to the issue or change):
+
+https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/
+
+Ensure that the new branch is selected.
+
+Existing files can be browsed an edited:
+
+Adding new files can also be performed using Github:
+
+https://help.github.com/articles/creating-new-files/
+
+When happy with the changes, create a pull request for the branch:
+
+https://help.github.com/articles/creating-a-pull-request/
+
 ## Create the 'post' file.
 
-Open the source code in the editor of choice.
+Open the source code in the editor of choice, or use the online Github editor.
 
 In the 'posts' directory, create a new file that will contain the contents.
 
@@ -93,15 +114,9 @@ For example:
     Anita Desai: Reflections.jpg
     Anita Desai: Reflections__Cover.jpg
 
-## Creating pull request
-
-todo
-
-## Editing other content
-
-todo
-
 ## Update (manual process)
+
+Once the merge request has been submitted, please contact the site maintainer.
 
 - build the site
 - preview the site
