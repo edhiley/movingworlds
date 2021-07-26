@@ -2,16 +2,16 @@
 title: Postcolonial Futures
 date: '2021-07-01'
 description:
-categories: ['volumes/21', 'issues']
+categories: ['volumes/20', 'issues']
 categories:
-  - 'volumes/21'
+  - 'volumes/20'
   - 'issues'
   - Translations
 buying:
   unwaged: https://store.leeds.ac.uk/product-catalogue/faculty-of-arts/moving-worlds-sales-for-studentsunwaged/moving-worlds-issue-202-postcolonial-futures-studentsunwaged
   individuals: https://store.leeds.ac.uk/product-catalogue/faculty-of-arts/moving-worlds-sales-for-individuals/moving-worlds-issue-202-postcolonial-futures-individuals
   institutions: https://store.leeds.ac.uk/product-catalogue/faculty-of-arts/moving-worlds-sales-for-institutions/moving-worlds-issue-202-postcolonial-futures-institutions
-catalog: Volume 21 Number 1
+catalog: Volume 20 Number 2
 tags:
 - Angelia Poon
 - Dominic Davies
